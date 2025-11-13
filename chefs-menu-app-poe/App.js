@@ -104,6 +104,10 @@ localStorage.setItem("offlineRecipes", JSON.stringify(recipes));
  // Load ratings from localStorage
 let ratings = JSON.parse(localStorage.getItem("recipeRatings")) || {};
 
+// Display Recipes
+function displayRecipes() 
+  recipeContainer.innerHTML = "";
+
       <Text style={styles.sectionHeader}>🗒️ Current Menu Items</Text>
       <FlatList
         data={menuItems}
