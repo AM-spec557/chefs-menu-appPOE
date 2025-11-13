@@ -101,6 +101,8 @@ function ManageMenuScreen() {
       // ✅ Save recipes locally for offline mode
 localStorage.setItem("offlineRecipes", JSON.stringify(recipes));
 
+ // Load ratings from localStorage
+let ratings = JSON.parse(localStorage.getItem("recipeRatings")) || {};
 
       <Text style={styles.sectionHeader}>🗒️ Current Menu Items</Text>
       <FlatList
