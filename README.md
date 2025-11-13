@@ -5,7 +5,7 @@ Screenshots of chefs home screen
 Screenshots of manage menu screen
 <img width="424" height="632" alt="Screenshot 2025-11-13 175705" src="https://github.com/user-attachments/assets/e29904e1-e888-4fb2-92f4-ccf40c95af09" />
 Screenshots of filter screen 
-<img width="424" height="632" alt="Screenshot 2025-11-13 175705" src="https://github.com/user-attachments/assets/c1ea49f3-ec4f-4d35-bf65-a45d20e0b3b7" />
+<img width="331" height="649" alt="Screenshot 2025-11-13 175754" src="https://github.com/user-attachments/assets/d605b973-9412-4989-94f6-398ebb485104" />
 
 References 
 1. Expo Documentation (2025) Expo Documentation. Available at:https://docs.expo.dev (Accessed: 10 Novemeber 2025).
